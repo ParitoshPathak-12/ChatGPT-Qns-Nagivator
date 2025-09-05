@@ -1,4 +1,4 @@
-# ChatGPT-Qns-Nagivator Chrome Extension
+# ChatGPT-Qns-Nagivator-Chrome-Extension
 
 ## The Problem
 Do you have the habit of asking lot of questions in a single chat of Chat-GPT?
