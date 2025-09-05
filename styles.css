@@ -1,0 +1,42 @@
+.show-qns-btn {
+    display: inline-block;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: box-shadow 0.2s ease;
+}
+
+.show-qns-btn:hover {
+    box-shadow: 1px 1px 3px #097df8;
+}
+
+.qn-navigate-btns-container {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 1px 1px 3px rgb(197, 195, 195);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 5px;
+    border-radius: 5px;
+}
+
+.qn-navigate-btns-container button {
+    display: inline-block;
+    background-color: rgb(243, 240, 240);
+    padding: 6px 10px;
+    color: blue;
+    border-radius: 5px;
+}
+
+.hide {
+    display: none;
+}
