@@ -11,3 +11,13 @@ It helps you in a way that you don't need to scroll up and down and you can jump
 ## Add More Features
 If you are interested in adding more features to it, please do it. Raise it here or fork/clone this repo and try out new features.
 > One feature which I want (might work on that later when free), is dragging the button (Questions List button) and allowing the user to place it any where on page based on user's comfort. Currently that button is statically shown on top center of page.
+
+## How to use?
+I am facing some issues in payments so the project is not yet deployed currently. I am trying to get it deployed ASAP so that anyone can try using it easily.
+But since then, you can download the project files (manifest.json, content.js, styles.css) and deploy in your chrome browser to use it.
+
+Steps for that are:
+1. Enter **chrome://extensions** in search bar.
+2. Enable developer mode.
+3. Click on load unpacked.
+4. Select the project folder and you are done.
